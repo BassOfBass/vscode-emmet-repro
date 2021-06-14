@@ -1,0 +1,9 @@
+{
+  "html": {
+    "snippets": {
+      "button:b|button:button": "button[type=button]",
+      "dl:ex": "dl>div>dt+dd",
+      "dl:i": "div>dt+dd"
+    }
+  }
+}

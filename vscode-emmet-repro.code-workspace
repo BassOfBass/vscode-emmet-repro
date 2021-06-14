@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.tabSize": 2,
+		"emmet.extensionsPath": [
+			"./config/emmet"
+		],
+		"emmet.includeLanguages": {
+			"jinja-html": "html",
+		}
+	},
+	"extensions": {
+		"recommendations": [
+			"samuelcolvin.jinjahtml"
+		]
+	}
+}
